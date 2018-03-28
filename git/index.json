@@ -1,0 +1,26 @@
+{
+  "title": "Git Stash Scenario",
+  "description": "From Developer 1",
+  "difficulty": "beginner",
+  "time": "2 minutes",
+  "details": {
+    "steps": [{
+      "title": "Step 1 - Clone for Developer1",
+      "text": "intro.md"
+    }],
+    "intro": {
+      "text": "second.md",
+      "credits": ""
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal",
+    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nStart Kubernetes using `launch.sh`\u001b[m\r\n"
+  },
+  "backend": {
+    "imageid": "git"
+  }
+}
