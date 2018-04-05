@@ -21,6 +21,6 @@
     "uimessage1": "\u001b[32mYour Interactive Bash Terminal.Please type git --version to verify bash installed "
   },
   "backend": {
-    "imageid": "git"
+    "imageid": "dokcer"
   }
 }
