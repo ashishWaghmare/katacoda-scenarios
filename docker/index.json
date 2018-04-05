@@ -1,0 +1,26 @@
+{
+  "title": "Gettng Started with Docker",
+  "description": "This tutorial helps you work with Docker and create your docker images as well",
+  "difficulty": "beginner",
+  "time": "2 minutes",
+  "details": {
+    "steps": [{
+      "title": "Setup for your environment",
+      "text": "intro.md"
+    }],
+    "intro": {
+      "text": "second.md",
+      "credits": ""
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal",
+    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.Please type git --version to verify bash installed "
+  },
+  "backend": {
+    "imageid": "git"
+  }
+}
