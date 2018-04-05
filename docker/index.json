@@ -9,11 +9,11 @@
       "text": "intro.md"
     }],
     "intro": {
-      "text": "second.md",
+      "text": "intro.md",
       "credits": ""
     },
     "finish": {
-      "text": "finish.md"
+      "text": "intro.md"
     }
   },
   "environment": {
@@ -21,6 +21,6 @@
     "uimessage1": "\u001b[32mYour Interactive Bash Terminal.Please type git --version to verify bash installed "
   },
   "backend": {
-    "imageid": "dokcer"
+    "imageid": "docker"
   }
 }
